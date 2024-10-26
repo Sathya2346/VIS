@@ -1,0 +1,63 @@
+.contain{
+    width: 100%;
+    background-image: url('bgimg.jpeg');
+    background-size:100% 80vh;
+    background-repeat: no-repeat;
+    height:auto;
+}
+.navcon>a{
+    color: white;
+    text-decoration: none;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left:30px;
+    margin-top: 0;
+    
+}
+.navcon>a:hover{
+    color: #38d750;
+}
+.navcon{
+    padding-top: 20px;
+    margin-left: 750px;
+    display: flex;
+    
+}
+.navcon{
+    position: sticky;
+    top: 0;
+}
+.content{
+    padding: 200px 400px;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-family: raleway;
+}
+.abcon1>img{
+    border-radius:50px;
+    height: 80vh;
+}
+.abcon1>h3,h4{
+    text-align: center;
+}
+.abcon2{
+    text-align: center;
+    margin-top: 200px;
+}
+.abcon{
+    margin:0px 50px;
+    display: flex;
+}
+.abcon3{
+    display: flex;
+    margin: 20px;
+    background-image: url('mahesh.PNG');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.foot{
+    height: 30vh;
+    color: black;
+    text-align: center;
+}
